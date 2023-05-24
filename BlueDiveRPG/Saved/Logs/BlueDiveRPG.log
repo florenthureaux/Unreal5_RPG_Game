@@ -1148,3 +1148,212 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.05.24-10.00.06:699][  1]LogTurnkeySupport: Turnkey Device: Win64@ALGOSUP-002A: (Name=ALGOSUP-002A, Type=Computer, Status=Valid, , Flags="Device_InstallSoftwareValid")
 [2023.05.24-10.00.06:742][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/FlorentHUREAUX/Documents/GitHub/Unreal5_RPG_Game/BlueDiveRPG/Content/' took 0.33s
 [2023.05.24-10.00.06:772][  1]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.24-10.01.35:278][516]LogBlueprint: Warning: [AssetLog] C:\Users\FlorentHUREAUX\Documents\GitHub\Unreal5_RPG_Game\BlueDiveRPG\Content\Female_Heroine_01\Blueprints\Female_Heroine_01_Character_BP.uasset: [Compiler] InputAction Event references unknown Action 'Attack' for  InputAction Attack
+[2023.05.24-10.01.35:278][516]LogBlueprint: Warning: [AssetLog] C:\Users\FlorentHUREAUX\Documents\GitHub\Unreal5_RPG_Game\BlueDiveRPG\Content\Female_Heroine_01\Blueprints\Female_Heroine_01_Character_BP.uasset: [Compiler] InputAction Event references unknown Action 'Walk' for  InputAction Walk
+[2023.05.24-10.01.35:278][516]LogBlueprint: Warning: [AssetLog] C:\Users\FlorentHUREAUX\Documents\GitHub\Unreal5_RPG_Game\BlueDiveRPG\Content\Female_Heroine_01\Blueprints\Female_Heroine_01_Character_BP.uasset: [Compiler] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2023.05.24-10.01.35:278][516]LogBlueprint: Warning: [AssetLog] C:\Users\FlorentHUREAUX\Documents\GitHub\Unreal5_RPG_Game\BlueDiveRPG\Content\Female_Heroine_01\Blueprints\Female_Heroine_01_Character_BP.uasset: [Compiler] Input Axis Event references unknown Axis 'LookUp' for  InputAxis LookUp
+[2023.05.24-10.01.35:279][516]LogBlueprint: Warning: [AssetLog] C:\Users\FlorentHUREAUX\Documents\GitHub\Unreal5_RPG_Game\BlueDiveRPG\Content\Female_Heroine_01\Blueprints\Female_Heroine_01_Character_BP.uasset: [Compiler] Input Axis Event references unknown Axis 'Turn' for  InputAxis Turn
+[2023.05.24-10.01.35:279][516]LogBlueprint: Warning: [AssetLog] C:\Users\FlorentHUREAUX\Documents\GitHub\Unreal5_RPG_Game\BlueDiveRPG\Content\Female_Heroine_01\Blueprints\Female_Heroine_01_Character_BP.uasset: [Compiler] Input Axis Event references unknown Axis 'MoveForward' for  InputAxis MoveForward
+[2023.05.24-10.01.35:279][516]LogBlueprint: Warning: [AssetLog] C:\Users\FlorentHUREAUX\Documents\GitHub\Unreal5_RPG_Game\BlueDiveRPG\Content\Female_Heroine_01\Blueprints\Female_Heroine_01_Character_BP.uasset: [Compiler] Input Axis Event references unknown Axis 'MoveRight' for  InputAxis MoveRight
+[2023.05.24-10.01.35:279][516]LogBlueprint: Warning: [AssetLog] C:\Users\FlorentHUREAUX\Documents\GitHub\Unreal5_RPG_Game\BlueDiveRPG\Content\Female_Heroine_01\Blueprints\Female_Heroine_01_Character_BP.uasset: [Compiler] InputAction Event references unknown Action 'ResetVR' for  InputAction ResetVR
+[2023.05.24-10.01.35:280][516]LogBlueprint: Warning: [AssetLog] C:\Users\FlorentHUREAUX\Documents\GitHub\Unreal5_RPG_Game\BlueDiveRPG\Content\Female_Heroine_01\Blueprints\Female_Heroine_01_Character_BP.uasset: [Compiler] Input Axis Event references unknown Axis 'LookUpRate' for  InputAxis LookUpRate
+[2023.05.24-10.01.35:280][516]LogBlueprint: Warning: [AssetLog] C:\Users\FlorentHUREAUX\Documents\GitHub\Unreal5_RPG_Game\BlueDiveRPG\Content\Female_Heroine_01\Blueprints\Female_Heroine_01_Character_BP.uasset: [Compiler] Input Axis Event references unknown Axis 'TurnRate' for  InputAxis TurnRate
+[2023.05.24-10.01.35:518][516]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Female_Heroine_01/Character/Animations/Attack_1_Anim.Attack_1_Anim
+[2023.05.24-10.01.35:525][516]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Female_Heroine_01/Character/Animations/Attack_2_Anim.Attack_2_Anim
+[2023.05.24-10.01.35:605][516]LogMaterial: Warning: [AssetLog] C:\Users\FlorentHUREAUX\Documents\GitHub\Unreal5_RPG_Game\BlueDiveRPG\Content\Female_Heroine_01\Material\TearLine_Bust_Mat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Sampler type is Normal, should be Color for /Game/Female_Heroine_01/Textures/Tiled_skin_Normal.Tiled_skin_Normal
+	(Node TextureSample) Sampler type is Linear Color, should be Color for /Game/Female_Heroine_01/Textures/Tiled_Skin_Specular.Tiled_Skin_Specular
+
+[2023.05.24-10.01.35:607][516]LogAnimationCompression: Display: Storing compressed animation data for /Game/Female_Heroine_01/Character/Animations/Attack_1_Anim.Attack_1_Anim, at AnimationSequence/3098f16255d819a802c35e1d6d0225dbb04b0081
+[2023.05.24-10.01.35:634][516]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Female_Heroine_01/Character/Animations/Jump_Anim.Jump_Anim
+[2023.05.24-10.01.35:638][516]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Female_Heroine_01/Character/Animations/Jump_Loop_Anim.Jump_Loop_Anim
+[2023.05.24-10.01.35:646][516]LogAnimationCompression: Display: Storing compressed animation data for /Game/Female_Heroine_01/Character/Animations/Attack_2_Anim.Attack_2_Anim, at AnimationSequence/3645375f08838d81b418730ed54a92046127ccb4
+[2023.05.24-10.01.35:659][516]LogAnimationCompression: Display: Storing compressed animation data for /Game/Female_Heroine_01/Character/Animations/Jump_Anim.Jump_Anim, at AnimationSequence/c43982435b6224019fc5c03d2cb49656ace661ab
+[2023.05.24-10.01.35:668][516]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (Female_Heroine_01_SM) ...
+[2023.05.24-10.01.35:678][516]LogAnimationCompression: Display: Storing compressed animation data for /Game/Female_Heroine_01/Character/Animations/Jump_Loop_Anim.Jump_Loop_Anim, at AnimationSequence/34fce8beaa037b5e80458bb1d1d892febcec13bf
+[2023.05.24-10.01.35:689][516]LogSkeletalMesh: Display: [AssetLog] C:\Users\FlorentHUREAUX\Documents\GitHub\Unreal5_RPG_Game\BlueDiveRPG\Content\Female_Heroine_01\Character\Mesh\Female_Heroine_01_SM.uasset: Find and fix some bad tangent! please re-import this skeletal mesh asset to fix the issue. The shading of the skeletal mesh will be bad and faceted.
+[2023.05.24-10.01.35:689][516]LogSkeletalMesh: Building Skeletal Mesh Female_Heroine_01_SM...
+[2023.05.24-10.01.35:732][516]LogSkeletalMesh: Built Skeletal Mesh [0.04s] /Game/Female_Heroine_01/Character/Mesh/Female_Heroine_01_SM.Female_Heroine_01_SM
+[2023.05.24-10.01.35:732][516]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Female_Heroine_01/Character/Animations/Walk_Anim.Walk_Anim
+[2023.05.24-10.01.35:733][516]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Female_Heroine_01/Character/Animations/Idle_Anim.Idle_Anim
+[2023.05.24-10.01.35:733][516]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Female_Heroine_01/Character/Animations/Run_Anim.Run_Anim
+[2023.05.24-10.01.35:825][516]LogAnimationCompression: Display: Storing compressed animation data for /Game/Female_Heroine_01/Character/Animations/Walk_Anim.Walk_Anim, at AnimationSequence/ea517be07d2eb2bc668cf0707ca4e9c6fbcbde32
+[2023.05.24-10.01.35:884][516]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Female_Heroine_01/Blueprints/Female_Heroine_01_Character_BP.Female_Heroine_01_Character_BP_C
+[2023.05.24-10.01.35:884][516]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Female_Heroine_01/Blueprints/Female_Heroine_01_Character_BP.Female_Heroine_01_Character_BP_C
+[2023.05.24-10.01.35:912][516]LogSkeletalMesh: Display: OnRegister[/Game/Female_Heroine_01/Character/Mesh/Female_Heroine_01_SM.Female_Heroine_01_SM]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.05.24-10.01.35:912][516]LogSkeletalMesh: Display: OnRegister[/Game/Female_Heroine_01/Character/Mesh/Female_Heroine_01_SM.Female_Heroine_01_SM]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.05.24-10.01.35:962][516]LogAnimationCompression: Display: Storing compressed animation data for /Game/Female_Heroine_01/Character/Animations/Run_Anim.Run_Anim, at AnimationSequence/40d5e8a22d2d13e5107184e76cb9c05136b702a2
+[2023.05.24-10.01.35:973][516]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (Jaw_Buster_SM) ...
+[2023.05.24-10.01.36:315][516]LogAnimationCompression: Display: Storing compressed animation data for /Game/Female_Heroine_01/Character/Animations/Idle_Anim.Idle_Anim, at AnimationSequence/0d5d62f9a6a3a240af857c241193970071620034
+[2023.05.24-10.01.36:317][516]LogSkeletalMesh: Building Skeletal Mesh Jaw_Buster_SM...
+[2023.05.24-10.01.36:322][516]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Female_Heroine_01/Character/Weapon/Jaw_Buster_SM.Jaw_Buster_SM
+[2023.05.24-10.01.36:322][516]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Female_Heroine_01/Character/Animations/Jump_Start_Anim.Jump_Start_Anim
+[2023.05.24-10.01.36:331][516]LogActorFactory: Actor Factory spawned Blueprint /Game/Female_Heroine_01/Blueprints/Female_Heroine_01_Character_BP.Female_Heroine_01_Character_BP as actor: Female_Heroine_01_Character_BP_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Female_Heroine_01_Character_BP_C_0
+[2023.05.24-10.01.36:338][516]LogTexture: Display: Building textures: /Game/Female_Heroine_01/Textures/Bulg_Eye_N_T.Bulg_Eye_N_T (TFO_BC5, 512x512 x1x1x1) (Required Memory Estimate: 81.562488 MB), EncodeSpeed: Fast
+[2023.05.24-10.01.36:339][516]LogActorFactory: Actor Factory spawned Blueprint /Game/Female_Heroine_01/Blueprints/Female_Heroine_01_Character_BP.Female_Heroine_01_Character_BP as actor: Female_Heroine_01_Character_BP_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Female_Heroine_01_Character_BP_C_0
+[2023.05.24-10.01.36:345][516]LogTexture: Display: Building textures: /Game/Female_Heroine_01/Textures/Eye_Displacement_T.Eye_Displacement_T (RGBA16F, 1024x1024 x1x1x1) (Required Memory Estimate: 40.062492 MB), EncodeSpeed: Fast
+[2023.05.24-10.01.36:356][516]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.05.24-10.01.36:365][516]LogSkeletalMesh: Display: OnRegister[/Game/Female_Heroine_01/Character/Mesh/Female_Heroine_01_SM.Female_Heroine_01_SM]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.05.24-10.01.36:365][516]LogSkeletalMesh: Display: OnRegister[/Game/Female_Heroine_01/Character/Mesh/Female_Heroine_01_SM.Female_Heroine_01_SM]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.05.24-10.01.36:371][516]LogAnimationCompression: Display: Storing compressed animation data for /Game/Female_Heroine_01/Character/Animations/Jump_Start_Anim.Jump_Start_Anim, at AnimationSequence/ef7a22861798f0903f67d3029f489c2b9a0b15e3
+[2023.05.24-10.01.36:390][517]LogTexture: Display: Building textures: /Game/Female_Heroine_01/Textures/Eye_Iris_T.Eye_Iris_T (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 45.145823 MB), EncodeSpeed: Fast
+[2023.05.24-10.01.36:415][518]LogTexture: Display: Building textures: /Game/Female_Heroine_01/Textures/Eye1_N_T.Eye1_N_T (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 123.562488 MB), EncodeSpeed: Fast
+[2023.05.24-10.01.36:506][518]LogTexture: Display: Building textures: /Game/Female_Heroine_01/Textures/Sclera_T.Sclera_T (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 79.145823 MB), EncodeSpeed: Fast
+[2023.05.24-10.01.36:522][518]LogTexture: Display: Building textures: /Game/Female_Heroine_01/Textures/Tiled_skin_Normal.Tiled_skin_Normal (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 79.145823 MB), EncodeSpeed: Fast
+[2023.05.24-10.01.36:557][518]LogTexture: Display: Building textures: /Game/Female_Heroine_01/Textures/Tiled_Skin_Specular.Tiled_Skin_Specular (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 79.145823 MB), EncodeSpeed: Fast
+[2023.05.24-10.01.36:792][518]LogTexture: Display: Building textures: /Game/Female_Heroine_01/Textures/Axe_BaseColor.Axe_BaseColor (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 79.145823 MB), EncodeSpeed: Fast
+[2023.05.24-10.01.36:847][518]LogTexture: Display: Building textures: /Game/Female_Heroine_01/Textures/Axe_Axe_OcclusionRoughnessMetallic.Axe_Axe_OcclusionRoughnessMetallic (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 79.145823 MB), EncodeSpeed: Fast
+[2023.05.24-10.01.36:975][518]LogTexture: Display: Building textures: /Game/Female_Heroine_01/Textures/Axe_Normal.Axe_Normal (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 123.562488 MB), EncodeSpeed: Fast
+[2023.05.24-10.01.37:016][518]LogTexture: Display: Building textures: /Game/Female_Heroine_01/Textures/BAG_BaseColor.BAG_BaseColor (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 79.145823 MB), EncodeSpeed: Fast
+[2023.05.24-10.01.37:087][518]LogTexture: Display: Building textures: /Game/Female_Heroine_01/Textures/Bag_OcclusionRoughnessMetallic.Bag_OcclusionRoughnessMetallic (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 79.145823 MB), EncodeSpeed: Fast
+[2023.05.24-10.01.37:237][518]LogTexture: Display: Building textures: /Game/Female_Heroine_01/Textures/Post_Girl_Basecolor.Post_Girl_Basecolor (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 79.145823 MB), EncodeSpeed: Fast
+[2023.05.24-10.01.37:282][518]LogTexture: Display: Building textures: /Game/Female_Heroine_01/Textures/BAG_Normal.BAG_Normal (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 123.562488 MB), EncodeSpeed: Fast
+[2023.05.24-10.01.37:392][518]LogTexture: Display: Building textures: /Game/Female_Heroine_01/Textures/Post_Girl_Specular.Post_Girl_Specular (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 79.145823 MB), EncodeSpeed: Fast
+[2023.05.24-10.01.37:399][518]LogTexture: Display: Building textures: /Game/Female_Heroine_01/Textures/Post_Girl_SSS.Post_Girl_SSS (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 79.145823 MB), EncodeSpeed: Fast
+[2023.05.24-10.01.37:525][518]LogTexture: Display: Building textures: /Game/Female_Heroine_01/Textures/Post_Girl_Normal.Post_Girl_Normal (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 123.562488 MB), EncodeSpeed: Fast
+[2023.05.24-10.01.37:528][518]LogTexture: Display: Building textures: /Game/Female_Heroine_01/Textures/Cloths_BaseColor.Cloths_BaseColor (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 79.145823 MB), EncodeSpeed: Fast
+[2023.05.24-10.01.37:542][518]LogTexture: Display: Building textures: /Game/Female_Heroine_01/Textures/Cloths_Normal.Cloths_Normal (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 123.562488 MB), EncodeSpeed: Fast
+[2023.05.24-10.01.37:665][518]LogTexture: Display: Building textures: /Game/Female_Heroine_01/Textures/Cloths_OcclusionRoughnessMetallic.Cloths_OcclusionRoughnessMetallic (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 79.145823 MB), EncodeSpeed: Fast
+[2023.05.24-10.01.37:677][518]LogTexture: Display: Building textures: /Game/Female_Heroine_01/Textures/Belts_Boots_BaseColor.Belts_Boots_BaseColor (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 79.145823 MB), EncodeSpeed: Fast
+[2023.05.24-10.01.37:687][518]LogTexture: Display: Building textures: /Game/Female_Heroine_01/Textures/Belts_Boots_Normal.Belts_Boots_Normal (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 123.562488 MB), EncodeSpeed: Fast
+[2023.05.24-10.01.37:829][518]LogTexture: Display: Building textures: /Game/Female_Heroine_01/Textures/Eye_Occlusion.Eye_Occlusion (G8, 512x512 x1x1x1) (Required Memory Estimate: 6.729161 MB), EncodeSpeed: Fast
+[2023.05.24-10.01.37:862][518]LogTexture: Display: Building textures: /Game/Female_Heroine_01/Textures/Belts_Boots_OcclusionRoughnessMetallic.Belts_Boots_OcclusionRoughnessMetallic (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 79.145823 MB), EncodeSpeed: Fast
+[2023.05.24-10.01.37:974][518]LogTexture: Display: Building textures: /Game/Female_Heroine_01/Textures/Hair_Alpha.Hair_Alpha (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 76.145823 MB), EncodeSpeed: Fast
+[2023.05.24-10.01.38:005][518]LogTexture: Display: Building textures: /Game/Female_Heroine_01/Textures/ScleraBaseColor.ScleraBaseColor (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 79.145823 MB), EncodeSpeed: Fast
+[2023.05.24-10.01.38:192][518]LogTexture: Display: Building textures: /Game/Female_Heroine_01/Textures/Black_BaseColor.Black_BaseColor (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 79.145823 MB), EncodeSpeed: Fast
+[2023.05.24-10.01.38:227][518]LogTexture: Display: Building textures: /Game/Female_Heroine_01/Textures/Hair_Unique_Value.Hair_Unique_Value (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 79.145823 MB), EncodeSpeed: Fast
+[2023.05.24-10.01.38:258][518]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2023.05.24-10.01.38:405][520]LogTexture: Display: Building textures: /Game/Female_Heroine_01/Textures/Weapon1_lOW_09_Default_BaseColor.Weapon1_lOW_09_Default_BaseColor (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 79.145823 MB), EncodeSpeed: Fast
+[2023.05.24-10.01.38:457][522]LogTexture: Display: Building textures: /Game/Female_Heroine_01/Textures/Weapon1_lOW_09_Default_OcclusionRoughnessMetallic.Weapon1_lOW_09_Default_OcclusionRoughnessMetallic (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 79.145823 MB), EncodeSpeed: Fast
+[2023.05.24-10.01.38:769][525]LogTexture: Display: Building textures: /Game/Female_Heroine_01/Textures/Weapon1_lOW_09_Default_Normal.Weapon1_lOW_09_Default_Normal (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 123.562488 MB), EncodeSpeed: Fast
+[2023.05.24-10.01.40:792][544]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Female_Heroine_01/Blueprints/Female_Heroine_01_Character_BP.Female_Heroine_01_Character_BP_C
+[2023.05.24-10.01.40:792][544]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Female_Heroine_01/Blueprints/Female_Heroine_01_Character_BP.Female_Heroine_01_Character_BP_C
+[2023.05.24-10.01.40:804][544]LogSkeletalMesh: Display: OnRegister[/Game/Female_Heroine_01/Character/Mesh/Female_Heroine_01_SM.Female_Heroine_01_SM]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.05.24-10.01.40:804][544]LogSkeletalMesh: Display: OnRegister[/Game/Female_Heroine_01/Character/Mesh/Female_Heroine_01_SM.Female_Heroine_01_SM]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.05.24-10.01.40:824][544]LogActorFactory: Actor Factory spawned Blueprint /Game/Female_Heroine_01/Blueprints/Female_Heroine_01_Character_BP.Female_Heroine_01_Character_BP as actor: Female_Heroine_01_Character_BP_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Female_Heroine_01_Character_BP_C_UAID_7C8AE1BE3CD19A8501_1112492711
+[2023.05.24-10.01.40:829][544]LogActorFactory: Actor Factory spawned Blueprint /Game/Female_Heroine_01/Blueprints/Female_Heroine_01_Character_BP.Female_Heroine_01_Character_BP as actor: Female_Heroine_01_Character_BP_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Female_Heroine_01_Character_BP_C_UAID_7C8AE1BE3CD19A8501_1112492711
+[2023.05.24-10.01.41:162][544]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.24-10.01.41:439][545]LogViewport: Scene viewport resized to 601x335, mode Windowed.
+[2023.05.24-10.01.56:286][607]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.05.24-10.01.58:593][619]LogDerivedDataCache: C:/Users/FlorentHUREAUX/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.384 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 915 files in 1484 folders with total size 69 MiB.
+[2023.05.24-10.01.59:940][624]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Base'.'
+[2023.05.24-10.01.59:940][624]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Mask'.'
+[2023.05.24-10.02.05:486][648]LogSlate: Took 0.010697 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2023.05.24-10.02.08:245][661]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Fantasy_RPG_Game/Characters/Zombie/Zombie_SK.Zombie_SK
+[2023.05.24-10.02.08:245][661]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Fantasy_RPG_Game/Characters/Zombie/Zombie_SK.Zombie_SK
+[2023.05.24-10.02.08:246][661]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Fantasy_RPG_Game/Characters/Zombie/Zombie_SK.Zombie_SK as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_0
+[2023.05.24-10.02.08:263][661]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (Zombie_SK) ...
+[2023.05.24-10.02.08:282][661]LogTexture: Display: Building textures: /Game/Fantasy_RPG_Game/Textures/Pillar_N.Pillar_N (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 291.562488 MB), EncodeSpeed: Fast
+[2023.05.24-10.02.08:473][661]LogSkeletalMesh: Building Skeletal Mesh Zombie_SK...
+[2023.05.24-10.02.08:489][661]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/Fantasy_RPG_Game/Characters/Zombie/Zombie_SK.Zombie_SK
+[2023.05.24-10.02.08:492][661]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Fantasy_RPG_Game/Characters/Zombie/Zombie_SK.Zombie_SK as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_0
+[2023.05.24-10.02.08:627][661]LogTexture: Display: Building textures: /Game/Fantasy_RPG_Game/Textures/Pillar_RoughnessMetallic.Pillar_RoughnessMetallic (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2023.05.24-10.02.08:650][661]LogTexture: Display: Building textures: /Game/Fantasy_RPG_Game/Textures/Pillar_T.Pillar_T (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2023.05.24-10.02.10:014][668]LogTexture: Display: Building textures: /Game/Fantasy_RPG_Game/Textures/Zombie_Body_N.Zombie_Body_N (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2023.05.24-10.02.10:718][672]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Fantasy_RPG_Game/Characters/Zombie/Zombie_SK.Zombie_SK
+[2023.05.24-10.02.10:718][672]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Fantasy_RPG_Game/Characters/Zombie/Zombie_SK.Zombie_SK
+[2023.05.24-10.02.10:722][672]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Fantasy_RPG_Game/Characters/Zombie/Zombie_SK.Zombie_SK as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_UAID_7C8AE1BE3CD19A8501_1142417712
+[2023.05.24-10.02.10:725][672]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Fantasy_RPG_Game/Characters/Zombie/Zombie_SK.Zombie_SK as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_UAID_7C8AE1BE3CD19A8501_1142417712
+[2023.05.24-10.02.11:753][679]LogTexture: Display: Building textures: /Game/Fantasy_RPG_Game/Textures/Zombie_Body_RoughnessMetallic.Zombie_Body_RoughnessMetallic (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2023.05.24-10.02.13:589][702]LogTexture: Display: Building textures: /Game/Fantasy_RPG_Game/Textures/Zombie_Body_T.Zombie_Body_T (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2023.05.24-10.02.15:381][708]LogTexture: Display: Building textures: /Game/Fantasy_RPG_Game/Textures/Zombie_Costume_N.Zombie_Costume_N (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2023.05.24-10.02.15:838][709]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.05.24-10.02.16:574][714]LogTexture: Display: Building textures: /Game/Fantasy_RPG_Game/Textures/Zombie_Costume_RoughnessMetallic.Zombie_Costume_RoughnessMetallic (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2023.05.24-10.02.17:828][720]LogSlate: Window 'Content Browser' being destroyed
+[2023.05.24-10.02.18:014][720]LogSlate: Window 'Content Browser' being destroyed
+[2023.05.24-10.02.18:112][723]LogTexture: Display: Building textures: /Game/Fantasy_RPG_Game/Textures/Zombie_Costume_T.Zombie_Costume_T (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2023.05.24-10.02.26:439][773]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.24-10.02.26:449][773]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.05.24-10.02.26:453][773]LogWorldPartition: Display: GenerateStreaming started...
+[2023.05.24-10.02.26:453][773]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.05.24-10.02.26:454][773]LogWorldPartition: Display: GetPartitionedActors took 1 ms
+[2023.05.24-10.02.26:454][773]LogWorldPartition: Display: GenerateStreaming took 1 ms
+[2023.05.24-10.02.26:460][773]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.24-10.02.26:467][773]PIE: New page: PIE session: ThirdPersonMap (24 mai 2023 à 14:02:26)
+[2023.05.24-10.02.26:482][773]LogOnline: OSS: Created online subsystem instance for: NULL
+[2023.05.24-10.02.26:483][773]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.05.24-10.02.26:484][773]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.05.24-10.02.26:494][773]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010362s)
+[2023.05.24-10.02.26:494][773]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.010459s)
+[2023.05.24-10.02.26:496][773]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.05.24-10.02.26:496][773]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.24-10.02.26:496][773]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.05.24-10.02.26:498][773]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.05.24-10.02.26:498][773]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.05.24-10.02.26:498][773]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.05.24-10.02.26:500][773]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2023.05.24-10.02.26:500][773]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 347 ms)
+[2023.05.24-10.02.26:501][773]LogPlayLevel: PIE: World Init took: (0.006214s)
+[2023.05.24-10.02.26:619][773]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2023.05.24-10.02.26:625][773]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.05.24-10.02.26:625][773]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.24-10.02.26:625][773]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.24-10.02.26:625][773]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.24-10.02.26:625][773]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.24-10.02.26:625][773]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.05.24-10.02.26:625][773]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.24-10.02.26:625][773]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.05.24-10.02.26:625][773]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.24-10.02.26:626][773]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.24-10.02.26:626][773]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.24-10.02.26:626][773]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.24-10.02.26:628][773]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.24-10.02.26:652][773]LogAudioMixer: Display: Using Audio Hardware Device Casque (Realtek(R) Audio)
+[2023.05.24-10.02.26:652][773]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.24-10.02.26:652][773]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.24-10.02.26:652][773]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.24-10.02.26:652][773]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2023.05.24-10.02.26:652][773]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2023.05.24-10.02.26:655][773]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2023.05.24-10.02.26:655][773]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2023.05.24-10.02.26:655][773]LogInit: FAudioDevice initialized with ID 2.
+[2023.05.24-10.02.26:655][773]LogAudio: Display: Audio Device (ID: 2) registered with world 'ThirdPersonMap'.
+[2023.05.24-10.02.26:655][773]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2023.05.24-10.02.26:664][773]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.05.24-10.02.26:700][773]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2023.05.24-12.02.26
+[2023.05.24-10.02.26:727][773]LogWorld: Bringing up level for play took: 0.062108
+[2023.05.24-10.02.26:729][773]LogOnline: OSS: Created online subsystem instance for: :Context_4
+[2023.05.24-10.02.26:793][773]PIE: Server logged in
+[2023.05.24-10.02.26:793][773]PIE: Play in editor total start time 0,346 seconds.
+[2023.05.24-10.02.26:838][773]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.24-10.02.26:839][773]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.24-10.02.26:839][773]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.24-10.02.26:839][773]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.24-10.02.26:840][773]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.24-10.02.27:483][774]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.24-10.02.27:484][774]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.24-10.02.27:485][774]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.24-10.02.27:486][774]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.24-10.02.27:488][774]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.24-10.02.53:591][908]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.24-10.02.53:591][908]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.05.24-10.02.53:594][908]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.05.24-10.02.53:597][908]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.24-10.02.53:598][908]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2023.05.24-10.02.53:921][908]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.24-10.02.53:926][908]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.24-10.02.53:938][908]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.24-10.02.53:939][908]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2023.05.24-10.02.53:942][908]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.05.24-10.02.53:945][908]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.05.24-10.02.53:952][908]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.24-10.02.53:967][908]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2023.05.24-10.02.54:103][908]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.24-10.02.54:129][909]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2023.05.24-10.02.54:156][909]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.24-10.02.57:638][924]LogViewport: Scene viewport resized to 601x335, mode Windowed.
+[2023.05.24-10.03.17:375][ 35]LogViewport: Scene viewport resized to 601x335, mode Windowed.
+[2023.05.24-10.03.47:466][209]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.05.24-10.04.02:895][301]AssetReimport: New page: Outstanding source content changes 14:04:02
+[2023.05.24-10.04.02:934][301]LogSlate: Took 0.002468 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.05.24-10.04.03:102][302]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 C:/Users/FlorentHUREAUX/Documents/GitHub/Unreal5_RPG_Game/BlueDiveRPG/Content/Sound/331935__pyro13djt__hit.wav)
+[2023.05.24-10.04.03:731][303]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.24-10.04.03:823][303]LogPackageLocalizationCache: Processed 44 localized package path(s) for 1 prioritized culture(s) in 0.006584 seconds
+[2023.05.24-10.04.03:828][303]LogSerialization: UsePackageTrailer: 'true'
+[2023.05.24-10.04.03:974][303]LogAudio: Display: Chunk size for SoundWave /Game/Sound/331935__pyro13djt__hit.331935__pyro13djt__hit: 262144
+[2023.05.24-10.04.03:979][303]LogSavePackage: Moving output files for package: /Game/Sound/331935__pyro13djt__hit
+[2023.05.24-10.04.03:979][303]LogSavePackage: Moving '../../../../../../Users/FlorentHUREAUX/Documents/GitHub/Unreal5_RPG_Game/BlueDiveRPG/Saved/331935__pyro13djt__hit2E70DFBD4C6C3D1DDBE1B2B60238D174.tmp' to '../../../../../../Users/FlorentHUREAUX/Documents/GitHub/Unreal5_RPG_Game/BlueDiveRPG/Content/Sound/331935__pyro13djt__hit.uasset'
+[2023.05.24-10.04.03:997][303]LogFileHelpers: InternalPromptForCheckoutAndSave took 266 ms
+[2023.05.24-10.04.04:022][304]AssetCheck: New page: Asset Save: 331935__pyro13djt__hit
+[2023.05.24-10.04.04:022][304]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/Sound/331935__pyro13djt__hit.331935__pyro13djt__hit
+[2023.05.24-10.04.07:015][324]AssetReimport: Importing new asset /Game/Sound/331935__pyro13djt__hit.
